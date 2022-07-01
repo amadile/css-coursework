@@ -1,0 +1,60 @@
+
+.biodata{
+    width: 300px;
+    background-color: lightyellow;
+    height: 300px;
+    display: inline-block;
+
+}
+.biodata:hover{
+    background-color: pink;
+}
+.photo {
+    width: 300px;
+    background-color: blue;
+    height: 300px;
+    display: inline-block;
+    margin-left: 300px;
+
+}
+
+.photo:hover{
+    background-color: green;
+}
+
+.education {
+	width: 300px;
+   background-color:orangered ;
+   margin-left: 302px;
+    height: 300px;
+}
+
+.education:hover{
+    background-color: yellow;
+}
+
+.hobbies {
+	width: 300px;
+    background-color: blueviolet;
+    display: inline-block;
+    height: 300px;
+}
+
+.hobbies:hover{
+    background-color: orange;
+}
+.contact {
+	width: 300px;
+    background-color: green;
+   display: inline-block;
+    height: 300px;
+    margin-left: 300px;
+}
+
+.contact:hover{
+    background-color: black;
+}
+
+p{
+    margin: 0px;
+}
